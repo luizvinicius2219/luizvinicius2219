@@ -21,8 +21,8 @@ Acredito que o diferencial de um Analista de Dados Pleno está na combinação d
 📊 Tecnologias, Ferramentas e Stack
 <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> <img align="left" alt="Power BI" title="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> <img align="left" alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/> <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> <img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/> <img align="left" alt="API" title="API Integration" width="30px" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"/> <img align="left" alt="RPA" title="RPA & Automação" width="30px" src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png"/> <br/> <br/>
 📈 Estatísticas do GitHub
-<p> <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=luizvinicius2219&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<p> <img align="left" alt="GitHub Stats" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizvinicius2219&theme=tokyonight" />
 
-<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvinicius2219&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img align="left" alt="Top Langs" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizvinicius2219&theme=tokyonight" />
 
 </p>
